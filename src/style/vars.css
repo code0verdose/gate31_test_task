@@ -1,0 +1,13 @@
+:root {
+    --bg-color-main: #b6b6b6;
+    --bg-color-dark: #2c2e33;
+    --header-bg-main: #f3f3f3;
+    --header-bg-dark: #494d54;
+
+    --text-color-main: #000;
+    --text-color-dark: #fff;
+
+    --accent-color: #50c878;
+    --accent-color-middle: #37ae5f;
+    --accent-color-dark: #319b54;
+}
