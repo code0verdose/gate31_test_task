@@ -1,0 +1,6 @@
+.hero {
+    padding: calc(30px + var(--header-height)) 0;
+}
+.hero__title {
+    margin-bottom: 60px;
+}

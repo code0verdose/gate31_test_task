@@ -1,4 +1,8 @@
 @import "vars.css";
+@import "fonts.css";
 @import "config.css";
 @import "header.css";
 @import "search.css";
+@import "hero.css";
+@import "posts.css";
+@import "item.css";

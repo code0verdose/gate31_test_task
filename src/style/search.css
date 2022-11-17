@@ -13,6 +13,10 @@
     transition: width .5s ease-in-out;
 }
 
+.search__input::placeholder {
+    font-family: 'JetBrains Mono', monospace;
+}
+
 .search__input:focus {
     /*outline: 1px solid var(--accent-color);*/
     width: 300px;
@@ -65,6 +69,8 @@
 }
 .search__input:focus + .search__submit::after {
     content: 'Find';
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 600;
     display: block;
     width: max-content;
     height: auto;

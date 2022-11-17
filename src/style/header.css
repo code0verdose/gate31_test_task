@@ -1,6 +1,8 @@
 .header {
     background: var(--header-bg-dark);
+    border-bottom: 1px solid gray;
     position: fixed;
+    height: 50px;
     width: 100vw;
     top: 0;
     left: 0;

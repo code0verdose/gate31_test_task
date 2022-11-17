@@ -1,0 +1,20 @@
+.item {
+    width: 300px;
+    padding: 10px;
+    background: var(--header-bg-dark);
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.item__title {
+    margin-bottom: 20px;
+    text-overflow: ellipsis;
+}
+.item__text {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.item__check {
+    margin-top: auto;
+}

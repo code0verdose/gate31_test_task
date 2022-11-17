@@ -7,6 +7,7 @@
 body {
     background-color: var(--bg-color-dark);
     color: var(--text-color-dark);
+    font-family: 'JetBrains Mono', monospace;
 }
 a {
     text-decoration: none;
@@ -14,8 +15,17 @@ a {
 }
 
 .container {
-    max-width: 1160px;
+    max-width: 1280px;
     padding: 0 15px !important;
     box-sizing: content-box;
     margin: 0 auto;
+}
+.title {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.subtitle {
+    font-size: 24px;
+    font-weight: 600;
 }
