@@ -1,7 +1,8 @@
 # gate31_test_task
 Test task for GATE31
+https://github.com/GATE31/test-task-for-candidates
 
-# Тестовое здание
+## Тестовое здание
 
 
 1. Сделать GET запрос на адрес https://jsonplaceholder.typicode.com/posts/?_start=0&_limit=7
