@@ -3,7 +3,7 @@
     border-bottom: 1px solid gray;
     position: fixed;
     height: 50px;
-    width: 100vw;
+    width: 100%;
     top: 0;
     left: 0;
 }
